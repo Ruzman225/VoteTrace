@@ -1,0 +1,22 @@
+# Maven build files
+/target/
+
+# Cryptographic private keys
+*.pk8
+*-private*
+*.key
+
+# Digital signatures
+*.sig
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/

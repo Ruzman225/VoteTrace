@@ -1,0 +1,11 @@
+voter_id,name,age,constituency,status
+VT001,Aarav Demo,24,North Demo,ACTIVE
+VT002,Diya Sample,31,North Demo,ACTIVE
+VT003,Kabir Test,42,East Demo,ACTIVE
+VT004,Meera Example,28,East Demo,ACTIVE
+VT005,Ishaan Fiction,56,South Demo,ACTIVE
+VT006,Anaya Mock,37,South Demo,ACTIVE
+VT007,Rehan Placeholder,63,West Demo,ACTIVE
+VT008,Sara Training,21,West Demo,ACTIVE
+VT009,Arjun Fictional,49,Central Demo,ACTIVE
+VT010,Nila Example,33,Central Demo,ACTIVE
